@@ -1,2 +1,2 @@
-# become-a-happy-person
-Read note of A Short History of Chinese Philosophy (written by Feng Youlan).
+# 成为一个快乐的人
+《中国哲学简史》（冯友兰作）的读书笔记。
