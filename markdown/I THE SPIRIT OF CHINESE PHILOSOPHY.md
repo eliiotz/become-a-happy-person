@@ -8,7 +8,7 @@
 
 ### 概览
 
-![image-20191130185900545](..\resources\I-1-overview.png)
+![image-20191130185900545](../resources/I-1-overview.png)
 
 ### 中国哲学与超乎实际的价值
 
