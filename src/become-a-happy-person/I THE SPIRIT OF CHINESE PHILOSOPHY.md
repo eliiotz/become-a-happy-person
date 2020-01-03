@@ -8,7 +8,7 @@
 
 ### 概览
 
-![中国哲学的精神](../resources/I-1-overview.png)
+![中国哲学的精神](../../resources/I-1-overview.png)
 
 ### 中国哲学与超乎实际的价值
 
